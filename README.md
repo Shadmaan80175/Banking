@@ -1,6 +1,7 @@
 # Banking Domain Project
 # Banking Clients Analysis: EDA & Dashboard
-## [Banking Domain Project.pdf](https://github.com/user-attachments/files/22645170/Banking.Domain.Project.pdf)
+
+### [Banking Domain Project.pdf](https://github.com/user-attachments/files/22645170/Banking.Domain.Project.pdf)
 
 
 ## 📖 Project Overview
